@@ -31,3 +31,5 @@ Once AIMS grid is defined, next step is data discovery. For that, Sales records 
 **4. Data Cleaning & ETL in Tableau:** Loading the Sales database in Tableau and creating a data model. Data models defines the data elements and the relationships between the data elements. Star schema is made in which a fact table is present at the center and the dimension tables surrounding it. Next, Clean the data by adding filters on the columns.
 
 **5. Build Tableau Dashboard and publish it on Tableau Public**
+
+**6. Feedback From Stakeholders & Profit Analysis:** Based on the feedback from stakeholders we will build phase 2 where we will do profit analysis and fix some issues found in phase 1. Some changes were: Adding context filters, adding profit, profit_margin, cost columns in tables, breakdown of sales w.r.t customer names and profit margin by regions.
