@@ -29,3 +29,7 @@ where d.year="2020" and d.month_name = "January";
 # Show total revenue in year 2020 in Chennai
 SELECT SUM(t.sales_amount) as sales_2020_chennai FROM sales.transactions as t INNER JOIN sales.date as d ON d.date = t.order_date
 where d.year="2020" and t.market_code = "MARK001";
+
+# checking: sales amount of Delhi NCR of product code: prod316
+SELECT sum(sales_amount) FROM sales.transactions where market_code = "MARK004" and product_code = "Prod316";
+ 
