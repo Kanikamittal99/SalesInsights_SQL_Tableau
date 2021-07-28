@@ -33,3 +33,9 @@ Once AIMS grid is defined, next step is data discovery. For that, Sales records 
 **5. Build Tableau Dashboard and publish it on Tableau Public**
 
 **6. Feedback From Stakeholders & Profit Analysis:** Based on the feedback from stakeholders we will build phase 2 where we will do profit analysis and fix some issues found in phase 1. Some changes were: Adding context filters, adding profit, profit_margin, cost columns in tables, breakdown of sales w.r.t customer names and profit margin by regions.
+<ul>
+  <li><em>Adding context filters</em></li>
+  <li><em>Adding profit, profit_margin & cost columns in tables</em></li>
+  <li><em>Breakdown of sales w.r.t Customer Names</em></li>
+  <li><em>Profit margin by Regions</em></li>
+</ul>
