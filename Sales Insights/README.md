@@ -18,9 +18,9 @@
 
 
   <ul>
-                      <li>_Dashboards uncovering sales order insights with latest data available._</li>
-                      <li>_Sales Team able to take better decisions & prove 10% cost savings of total spend._</li>
-                      <li>_Sales Analysts stop data gathering manually in order to save 20% of their business time and reinvest it in value added activity._</li>
+                      <li><i>Dashboards uncovering sales order insights with latest data available.</i></li>
+                      <li><i>Sales Team able to take better decisions & prove 10% cost savings of total spend.</i</li>
+                      <li><i>Sales Analysts stop data gathering manually in order to save 20% of their business time and reinvest it in value added activity.</i></li>
   </ul>
 
 
