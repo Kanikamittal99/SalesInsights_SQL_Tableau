@@ -13,12 +13,14 @@
   <li>Stakeholders: Defines who all are involved in this project.(Sales Director, Data & Analytics Team, IT, etc)</li>
   <li>End Result: An automated dashboard providing quick & latest sales insights in order to support data driven decision making.</li>
   <li>Success Criteria: Measures for the success of this project.</li>
-  </ol>           
+  </ol>  
+  <pre>
   <ul>
                       <li>Dashboards uncovering sales order insights with latest data available.</li>
                       <li>Sales Team able to take better decisions & prove 10% cost savings of total spend.</li>
                       <li>Sales Analysts stop data gathering manually in order to save 20% of their business time and reinvest it in value added activity.</li>
   </ul>
+  </pre>
   Once AIMS grid is defined, next step is data discovery. For that, Sales records that are stored in mysql database are pulled in by tableau for data analysis. 
 
 3. Data Analysis Using SQL: Analyse the sales database. Sales database has transactions, customers, products, date and markets tables.
