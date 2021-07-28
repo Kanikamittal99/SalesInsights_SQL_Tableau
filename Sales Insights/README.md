@@ -8,13 +8,17 @@
   <li> Top 5 products by revenue amount</li>
 </ul>
 2. Data Discovery: Defining purpose and success criteria of this project using AIMS grid. Four components of AIMS grid are:\
-  1)Purpose: To unlock sales insights that are not visible before for sales team for decision support & automate them to reduce manual time spent in data gathering.\
-  2)Stakeholders: Defines who all are involved in this project.(Sales Director, Data & Analytics Team, IT, etc)\
-  3)End Result: An automated dashboard providing quick & latest sales insights in order to support data driven decision making.\
-  4)Success Criteria: Measures for the success of this project.\
-                      ->Dashboards uncovering sales order insights with latest data available.\
-                      ->Sales Team able to take better decisions & prove 10% cost savings of total spend.\
-                      ->Sales Analysts stop data gathering manually in order to save 20% of their business time and reinvest it in value added activity.\
+  <ol>
+  <li>Purpose: To unlock sales insights that are not visible before for sales team for decision support & automate them to reduce manual time spent in data gathering.</li>
+  <li>Stakeholders: Defines who all are involved in this project.(Sales Director, Data & Analytics Team, IT, etc)</li>
+  <li>End Result: An automated dashboard providing quick & latest sales insights in order to support data driven decision making.</li>
+  <li>Success Criteria: Measures for the success of this project.</li>
+  </ol>           
+  <ul>
+                      <li>Dashboards uncovering sales order insights with latest data available.</li>
+                      <li>Sales Team able to take better decisions & prove 10% cost savings of total spend.</li>
+                      <li>Sales Analysts stop data gathering manually in order to save 20% of their business time and reinvest it in value added activity.</li>
+  </ul>
   Once AIMS grid is defined, next step is data discovery. For that, Sales records that are stored in mysql database are pulled in by tableau for data analysis. 
 
 3. Data Analysis Using SQL: Analyse the sales database. Sales database has transactions, customers, products, date and markets tables.
