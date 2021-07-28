@@ -7,6 +7,7 @@
   <li> Top 5 customers by revenue and sales quantity</li>
   <li> Top 5 products by revenue amount</li>
 </ul>
+
 **2. Data Discovery:** Defining purpose and success criteria of this project using AIMS grid. Four components of AIMS grid are:\
   <ol type="i">
   <li>Purpose: To unlock sales insights that are not visible before for sales team for decision support & automate them to reduce manual time spent in data gathering.</li>
@@ -29,4 +30,4 @@ Once AIMS grid is defined, next step is data discovery. For that, Sales records 
 
 **4. Data Cleaning & ETL in Tableau:** Loading the Sales database in Tableau and creating a data model. Data models defines the data elements and the relationships between the data elements. Star schema is made in which a fact table is present at the center and the dimension tables surrounding it. Next, Clean the data by adding filters on the columns.
 
-**5. Build Tableau Dashboard and publish it on Tableau Public **
+**5. Build Tableau Dashboard and publish it on Tableau Public**
