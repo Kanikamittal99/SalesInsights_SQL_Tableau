@@ -8,7 +8,7 @@
   <li> Top 5 products by revenue amount</li>
 </ul>
 2. Data Discovery: Defining purpose and success criteria of this project using AIMS grid. Four components of AIMS grid are:\
-  <ol>
+  <ol type="i">
   <li>Purpose: To unlock sales insights that are not visible before for sales team for decision support & automate them to reduce manual time spent in data gathering.</li>
   <li>Stakeholders: Defines who all are involved in this project.(Sales Director, Data & Analytics Team, IT, etc)</li>
   <li>End Result: An automated dashboard providing quick & latest sales insights in order to support data driven decision making.</li>
@@ -16,7 +16,7 @@
   </ol>  
 
   <ul>
-  $~~~$                    <li>Dashboards uncovering sales order insights with latest data available.</li>
+                      <li>Dashboards uncovering sales order insights with latest data available.</li>
                       <li>Sales Team able to take better decisions & prove 10% cost savings of total spend.</li>
                       <li>Sales Analysts stop data gathering manually in order to save 20% of their business time and reinvest it in value added activity.</li>
   </ul>
