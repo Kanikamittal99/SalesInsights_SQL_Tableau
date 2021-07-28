@@ -2,10 +2,10 @@
 
 1. Problem Statement: Qubix hardware is a company which supplies the computer hardware and peripherals to different clients(like Surge stores, Normad stores, Excel stores,etc).They have regional offices in different states of India. Now, Sales are declining for this business. So,Rashmi Patel who is the Sales Director of this company wants to know the following Questions:\
 <ul>
-  <li>Q1) Revenue breakdown by cities</li>
-  <li>Q2) Revenue breakdown by years and months</li>
-  <li>Q3) Top 5 customers by revenue and sales quantity</li>
-  <li>Q4) Top 5 products by revenue amount</li>
+  <li> Revenue breakdown by cities</li>
+  <li> Revenue breakdown by years and months</li>
+  <li> Top 5 customers by revenue and sales quantity</li>
+  <li> Top 5 products by revenue amount</li>
 </ul>
 2. Data Discovery: Defining purpose and success criteria of this project using AIMS grid. Four components of AIMS grid are:\
   1)Purpose: To unlock sales insights that are not visible before for sales team for decision support & automate them to reduce manual time spent in data gathering.\
