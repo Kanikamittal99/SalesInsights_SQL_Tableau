@@ -85,7 +85,12 @@ where d.year="2020" and d.month_name = "January";`
 where d.year="2020" and t.market_code = "MARK001";`
 
 
-## Data Analysis Using Tableau 
+## Data Analysis Using Tableau
+
+- Added context filters
+- Included profit, profit_margin & cost columns in tables
+- Breakdown of sales w.r.t Customer Names
+- Profit margin by Regions
 
 #### Tableau Dashboard - [Revenue Analysis](https://public.tableau.com/views/SalesInsightsforQubixHardwarev1/Dashboard-RevenueAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link)
 
@@ -99,6 +104,5 @@ where d.year="2020" and t.market_code = "MARK001";`
 <p  align="center">
   <img width="100%" src="https://github.com/Kanikamittal99/SalesInsights_SQL_Tableau/assets/32505627/bfc0d3bf-f9a7-4596-9593-d0e59fbb4af7" />
 </p>
-
 
   
